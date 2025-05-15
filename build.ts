@@ -33,7 +33,6 @@ async function copyResourceFiles() {
     console.log("Resource files copied successfully!\n");
   } catch (err) {
     console.error(`Failed to read resource directory "${resourceDir}".`);
-    throw err;
   }
 }
 
