@@ -22,11 +22,6 @@ This tool allows you to read Outlook `.msg` files in your browser without sendin
   - Extremely fast
   - Works on any device that can open the page
 
-### Deployment
-
-This site is deployed using **GitHub Pages** at [https://creedofman.github.io/msg-viewer/](https://creedofman.github.io/msg-viewer/).  
-Automated updates and deployments are handled via a GitHub Actions workflow included in this repository for ease of maintenance and continuous delivery.
-
 ### Development
 
 #### Build
